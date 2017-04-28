@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "start": "neutrino start --use neutrino-preset-react"
+  },
+  "devDependencies": {
+    "neutrino": "^5.7.0",
+    "neutrino-preset-react": "^5.7.0"
+  },
+  "dependencies": {
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4"
+  }
+}
